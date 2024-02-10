@@ -12,7 +12,7 @@
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 260px;
+  min-width: 300px;
   position: relative;
 }
 
@@ -37,6 +37,12 @@
 }
 .animated-item:nth-child(3n + 3) {
   animation-delay: 4s;
+}
+.animated-item:nth-child(4n + 4) {
+  animation-delay: 6s;
+}
+.animated-item:nth-child(5n + 5) {
+  animation-delay: 8s;
 }
 @keyframes BottomTotop {
   0% {
