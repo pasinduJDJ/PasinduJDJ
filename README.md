@@ -18,12 +18,12 @@
 - 👨‍💻 Visit my web site [https://pasindujdj.github.io/PasinduJDJ/](https://pasindujdj.github.io/PasinduJDJ/)
 
 - 📝 I regularly write articles on [https://medium.com/@pasindudulanjanarj](https://medium.com/@pasindudulanjanarj)
+  
+- ⚡ I create User Interfaces on [https://www.figma.com/@pasindujdj](https://www.figma.com/@pasindujdj)
 
 - 💬 Ask me about **Angular, Flutter**
 
 - 📫 How to reach me **pasindudulanjanarj@gmail.com**
-
-- ⚡ Fun fact **call me as JDJ**
 
 <br><br>
 ##  💥  Languages and Tools::
