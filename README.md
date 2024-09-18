@@ -36,6 +36,5 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="springboot" width="40" height="40"/></a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a>  
 </p>
