@@ -75,3 +75,35 @@
 .carousel-item img {
   border-radius: 30px;
 }
+
+.animate-image-y img{
+  padding: 2rem;
+  animation: floatImage 4s ease-in-out infinite;
+}
+@keyframes floatImage{
+  0%{
+      transform: translateY(0);
+  }
+  50%{
+      transform: translateY(-2rem); 
+  }
+  100%{
+      transform: translateY(0);
+  }
+}
+
+.animate-image-x img{
+  padding: 2rem;
+  animation: floatImageX 4s ease-in infinite;
+}
+@keyframes floatImageX{
+  0%{
+      transform: translatex(0);
+  }
+  50%{
+      transform: translatex(-2rem); 
+  }
+  100%{
+      transform: translatex(0);
+  }
+}
