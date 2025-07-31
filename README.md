@@ -1,40 +1,152 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<p align="center">Hi 👋, I'm Pasindu</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/pasindu-dulanajan-5543b81a3/">LinkedIN</a> •
-  <a href="https://www.instagram.com/j_d_j_pasindu/?hl=en">Instagram</a> •
-  <a href="https://www.facebook.com/profile.php?id=100007345809277">Facebook</a>
-</p>
-<h3 align="center">|  Web and Mobile Application Developer  |</h3>
+# Pasindu JDJ - Personal Portfolio Website
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<hr>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
-- 🌱 I’m currently learning **Computer Science Degree Program**
+A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript. Features a clean design with red theme, smooth animations, and professional presentation.
 
-- 👨‍💻 Visit my web site [https://pasindujdj.github.io/PasinduJDJ/](https://pasindujdj.github.io/PasinduJDJ/)
+## 🚀 Features
 
-- 📝 I regularly write articles on [https://medium.com/@pasindudulanjanarj](https://medium.com/@pasindudulanjanarj)
-  
-- ⚡ I create User Interfaces on [https://www.figma.com/@pasindujdj](https://www.figma.com/@pasindujdj)
+### Design & UX
+- **Modern Red Theme** - Professional color scheme with #ff3c3c as primary color
+- **Responsive Design** - Optimized for mobile, tablet, and desktop
+- **Smooth Animations** - Scroll-triggered animations and hover effects
+- **Clean Typography** - Inter font family for modern readability
+- **Professional Layout** - Single-page scrollable design
 
-- 💬 Ask me about **Angular, Flutter**
+### Sections
+1. **Hero Section** - Fullscreen introduction with typing animation
+2. **About Section** - Personal introduction with skills showcase
+3. **Services Section** - 4 service cards with hover effects
+4. **Projects Section** - Featured projects with tech badges
+5. **Contact Section** - Formspree integration for contact form
+6. **Footer** - Social links and copyright
 
-- 📫 How to reach me **pasindudulanjanarj@gmail.com**
+### Interactive Features
+- **Smooth Scrolling** - Navigation with smooth scroll to sections
+- **Back to Top** - Floating button that appears on scroll
+- **Navbar Effects** - Transparent to solid background on scroll
+- **Hover Animations** - Cards and buttons with lift effects
+- **Scroll Progress** - Visual progress indicator
+- **Mobile Menu** - Responsive navigation with auto-close
 
-<br><br>
-##  💥  Languages and Tools::
-<p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="springboot" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a>  
-</p>
+### Performance
+- **Optimized Images** - Lazy loading for better performance
+- **CSS Variables** - Consistent theming and easy customization
+- **Throttled Events** - Smooth scroll performance
+- **Preloaded Assets** - Critical images preloaded
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Semantic markup
+- **CSS3** - Modern styling with CSS Grid and Flexbox
+- **JavaScript (ES6+)** - Interactive features and animations
+- **Bootstrap 5.3.3** - Responsive framework
+- **Font Awesome 6.4.0** - Icons
+- **Google Fonts** - Inter font family
+- **Formspree** - Contact form handling
+
+## 📁 File Structure
+
+```
+PasinduJDJ/
+├── index.html          # Main HTML file
+├── style.css           # Custom CSS styles
+├── script.js           # JavaScript functionality
+├── assets/
+│   ├── images/         # Project images and logos
+│   └── svg/           # SVG illustrations
+├── README.md           # Documentation
+└── CNAME              # Custom domain configuration
+```
+
+## 🎨 Color Scheme
+
+- **Primary Red**: #ff3c3c
+- **Dark Red**: #e63939
+- **Secondary**: #2c3e50
+- **Text Dark**: #2c3e50
+- **Text Light**: #6c757d
+- **Background Light**: #f8f9fa
+- **White**: #ffffff
+
+## 🚀 Getting Started
+
+1. **Clone or Download** the repository
+2. **Open** `index.html` in your browser
+3. **Customize** content in the HTML file
+4. **Update** Formspree endpoint in the contact form
+5. **Deploy** to your hosting service
+
+## 📝 Customization
+
+### Updating Content
+- Edit text content in `index.html`
+- Replace images in `assets/images/`
+- Update project details and links
+- Modify contact information
+
+### Styling Changes
+- Update CSS variables in `style.css` for theme colors
+- Modify animations in the CSS file
+- Adjust responsive breakpoints as needed
+
+### Form Integration
+Replace the Formspree endpoint in the contact form:
+```html
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+```
+
+## 📱 Responsive Breakpoints
+
+- **Mobile**: < 576px
+- **Tablet**: 576px - 768px
+- **Desktop**: > 768px
+
+## 🎯 Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Mobile browsers
+
+## 🔧 Performance Features
+
+- **Lazy Loading** - Images load as needed
+- **Throttled Scroll** - Smooth performance
+- **CSS Optimizations** - Efficient animations
+- **Minimal Dependencies** - Lightweight build
+
+## 📞 Contact Integration
+
+The contact form uses Formspree for email handling:
+1. Sign up at [formspree.io](https://formspree.io)
+2. Create a new form
+3. Replace `YOUR_FORM_ID` in the HTML with your actual form ID
+
+## 🎨 Animation Features
+
+- **Fade-in animations** on scroll
+- **Typing effect** in hero section
+- **Hover effects** on cards and buttons
+- **Parallax scrolling** in hero section
+- **Smooth transitions** throughout
+
+## 📈 SEO Optimized
+
+- Semantic HTML structure
+- Meta tags for social sharing
+- Optimized images with alt text
+- Fast loading times
+- Mobile-friendly design
+
+## 🔄 Version History
+
+- **v2.0** - Complete redesign with modern features
+- **v1.0** - Original portfolio design
+
+## 📄 License
+
+This project is for personal use. Feel free to use as inspiration for your own portfolio.
+
+---
+
+**Built with ❤️ by Pasindu JDJ**
